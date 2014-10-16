@@ -1,4 +1,6 @@
 ofStudies
 =========
 
-in order to be cool in oF world
+Made with of_v0.8.4_osx_release.
+
+I wanna be an oF king.
