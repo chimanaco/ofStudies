@@ -54,6 +54,7 @@ float t = 0;
 
 //--------------------------------------------------------------
 void ofApp::update(){
+    ofSetWindowTitle(ofToString(ofGetFrameRate()));
     
     // hide old messages
     for(int i = 0; i < NUM_MSG_STRINGS; i++){
