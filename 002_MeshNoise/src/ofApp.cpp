@@ -14,7 +14,7 @@ void ofApp::setup(){
 //	my_mesh.addVertex(ofVec3f(-s,-s,0));
 //    my_mesh = ofMesh::cylinder(100.0, 300.0);
 //    my_mesh = ofMesh::icosphere(250, 2);
-    my_mesh = ofMesh::plane(1500, 1500, 1500, 1500, OF_PRIMITIVE_TRIANGLE_STRIP);
+    my_mesh = ofMesh::plane(1500, 1500, 700, 700, OF_PRIMITIVE_TRIANGLE_STRIP);
     my_vbo.setMesh(my_mesh, GL_STATIC_DRAW);
     n_vert = my_mesh.getNumVertices();
     my_shader.load("of.vert","of.frag");

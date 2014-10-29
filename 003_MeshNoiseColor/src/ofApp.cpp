@@ -141,15 +141,15 @@ void ofApp::draw(){
     // OSC
     string buf;
     buf = "listening for osc messages on port" + ofToString(PORT);
-    ofDrawBitmapString(buf, 10, 20);
+//    ofDrawBitmapString(buf, 10, 20);
     
     // draw mouse state
     buf = "mouse: " + ofToString(oscFrequency, 4) +  " " + ofToString(mouseY, 4);
-    ofDrawBitmapString(buf, 430, 20);
+//    ofDrawBitmapString(buf, 430, 20);
     //ofDrawBitmapString(mouseButtonState, 580, 20);
     
     for(int i = 0; i < NUM_MSG_STRINGS; i++){
-        ofDrawBitmapString(msg_strings[i], 10, 40 + 15 * i);
+        //ofDrawBitmapString(msg_strings[i], 10, 40 + 15 * i);
     }
     
     //    light.enable();
