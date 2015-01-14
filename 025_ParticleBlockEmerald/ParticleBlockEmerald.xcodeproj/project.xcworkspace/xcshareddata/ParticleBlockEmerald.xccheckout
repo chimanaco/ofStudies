@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6393C707-CB05-494D-8A37-6CB0F8A53356</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParticleBlockEmerald</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>364D2CC2697CFF4C2B759050DFCB46D5A32A1184</key>
+		<string>https://github.com/chimanaco/ofStudies.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>038_Particle01/ParticleBlockEmerald.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>364D2CC2697CFF4C2B759050DFCB46D5A32A1184</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chimanaco/ofStudies.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>364D2CC2697CFF4C2B759050DFCB46D5A32A1184</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>364D2CC2697CFF4C2B759050DFCB46D5A32A1184</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofStudies</string>
+		</dict>
+	</array>
+</dict>
+</plist>

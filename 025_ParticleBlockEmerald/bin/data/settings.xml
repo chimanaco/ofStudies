@@ -1,0 +1,17 @@
+<group>
+	<speed>9.3</speed>
+	<radius_size>0</radius_size>
+	<background_alpha>3.875</background_alpha>
+<group/>
+<Default_size>15</Default_size>
+	<FORCE_X>0.31</FORCE_X>
+	<FORCE_Y>0.31</FORCE_Y>
+	<FORCE_Z>0</FORCE_Z>
+<FORCE_SEED_X>0.025</FORCE_SEED_X>
+	<FORCE_SEED_Y>0.04</FORCE_SEED_Y>
+	<FORCE_SEED_Z>0.05</FORCE_SEED_Z>
+<C1>0.403254</C1>
+	<C2>0.484863</C2>
+<refresh>158</refresh>
+<PARTICLE_SHAPE>1</PARTICLE_SHAPE>
+</group>

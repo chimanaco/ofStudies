@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../libs/openFrameworks/utils/ofUtils.h"
+            timestampString = "442559167.497168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "296"
+            endingLineNumber = "296"
+            landmarkName = "ofToString(const T&amp; value)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;float&gt;(float const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.008365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;int&gt;(int const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.008637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;bool&gt;(bool const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.008855"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;std::string&gt;(std::string const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.009064"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofColor_&lt;float&gt; &gt;(ofColor_&lt;float&gt; const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.00929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofColor_&lt;unsigned short&gt; &gt;(ofColor_&lt;unsigned short&gt; const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.0095"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofColor_&lt;unsigned char&gt; &gt;(ofColor_&lt;unsigned char&gt; const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.009723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofVec4f&gt;(ofVec4f const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.009932"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofVec3f&gt;(ofVec3f const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.010139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofVec2f&gt;(ofVec2f const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.01035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofParameter&lt;int&gt; &gt;(ofParameter&lt;int&gt; const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.010561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofParameter&lt;float&gt; &gt;(ofParameter&lt;float&gt; const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.010849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofParameter&lt;unsigned short&gt; &gt;(ofParameter&lt;unsigned short&gt; const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.011049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;unsigned short&gt;(unsigned short const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.011253"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;unsigned char&gt;(unsigned char const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/apps/ofStudies/023_superFormula3D%20EveryframeGui/../../../libs/openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.011443"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofPolyRenderMode&gt;(ofPolyRenderMode const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.011685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::string ofToString&lt;ofPrimitiveMode&gt;(ofPrimitiveMode const&amp;)"
+                  moduleName = "023_superFormula3DEveryframeDebug"
+                  urlString = "file:///Users/chimanaco/Projects/of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h"
+                  timestampString = "442560101.01189"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

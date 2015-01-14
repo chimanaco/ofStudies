@@ -1,0 +1,21 @@
+<panel>
+	<a1>0.9</a1>
+	<b1>0.425</b1>
+	<m1>8.9</m1>
+	<n11>8</n11>
+	<n21>-5</n21>
+	<n31>71.5</n31>
+	<a2>0.85</a2>
+	<b2>1</b2>
+	<m2>5.1</m2>
+	<n12>8</n12>
+	<n22>19</n22>
+	<n32>0.25</n32>
+	<radius>300</radius>
+	<alpha>1</alpha>
+	<beta>4</beta>
+	<SHADER_ON>1</SHADER_ON>
+	<SHADER>1</SHADER>
+	<DRAW_TYPE>0</DRAW_TYPE>
+	<POINT_SIZE>2</POINT_SIZE>
+</panel>

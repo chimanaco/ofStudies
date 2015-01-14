@@ -1,0 +1,30 @@
+<panel>
+	<RADIUS>300</RADIUS>
+	<a1>1</a1>
+	<b1>1</b1>
+	<m1>5.36007</m1>
+	<n11>3.3764</n11>
+	<n21>3.37631</n21>
+	<n31>4.35224</n31>
+	<a2>0.979599</a2>
+	<b2>1.096</b2>
+	<m2>5.36</m2>
+	<n12>1.56398</n12>
+	<n22>0.190052</n22>
+	<n32>3.90591</n32>
+	<alpha>1.02654</alpha>
+	<beta>3.9498</beta>
+	<lightX>-240</lightX>
+	<lightY>-640</lightY>
+	<lightZ>820</lightZ>
+	<SHAPE>6</SHAPE>
+	<ROTATION_ON>1</ROTATION_ON>
+	<SHADER_ON>1</SHADER_ON>
+	<SHADER>1</SHADER>
+	<DRAW_TYPE>0</DRAW_TYPE>
+	<POINT_SIZE>2.845</POINT_SIZE>
+	<DURATION>2000</DURATION>
+	<STOP>120</STOP>
+	<CHANGER_ON>1</CHANGER_ON>
+<panel/>
+</panel>
